@@ -1,8 +1,6 @@
-# TryHackMe — Junior Security Analyst Walkthrough
+# Junior Security Analyst Walkthrough
 
-Cybersecurity is not just about hacking systems or chasing malware signatures. In real-world environments, Security Analysts act as the first line of defense against ongoing attacks, suspicious behavior, phishing campaigns, and infrastructure abuse. In this TryHackMe room, we step into the role of a Junior Security Analyst and experience a simplified version of how a SOC operates daily. 
-
-Lab Link: [https://tryhackme.com/room/jrsecanalystintrouxo](https://tryhackme.com/room/jrsecanalystintrouxo)
+Cybersecurity is not just about hacking systems or chasing malware signatures. In real-world environments, Security Analysts act as the first line of defense against ongoing attacks, suspicious behavior, phishing campaigns, and infrastructure abuse. In this walkthrough, we step into the role of a Junior Security Analyst and experience a simplified version of how a SOC operates daily. 
 
 ---
 
@@ -106,10 +104,6 @@ Blocked malicious IP on firewall
 Once the block was applied successfully, the lab returned the following flag:
 
 ### Flag
-
-```text
-THM{until-we-meet-again}
-```
 
 ![](SOCJr1/4.png)
 
